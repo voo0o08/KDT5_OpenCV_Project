@@ -11,15 +11,15 @@
 ## 팀원
 
 ![영신](image-1.png)
-[**YOUNG_SHIN_OK**](/OYS/README.md)
+[**YOUNG_SHIN_OK**](/OYS/)
 
 ![진우](image-4.png)
-[**JIN_WOO_JEON**](/JJW/README.md)
+[**JIN_WOO_JEON**](/JJW/)
 
 ![우석](image-5.png)
-[**WOO_SEOK_GO**](/KWS/README.md)
+[**WOO_SEOK_GO**](/KWS/)
 
 ![윤서](image-6.png)
-[**YUN_SEO_LEE**](/LYS/README.md)
+[**YUN_SEO_LEE**](/LYS/)
 
 ## 결과
