@@ -1,27 +1,25 @@
 # KDT5_OpenCV_Project
 
+![title](image.png)
+
 ## 주제 : 피자 낫피자
 
-## 내용
+![주제](image-2.png)
 
-1) 피자냐 아니냐
-2) 모델 만들기 / Resnet 모델 사용해보기
+![주제2](image-3.png)
 
-## 소주제
+## 팀원
 
-1) 윤서 : 피자냐 부침개냐
-2) 진우 : 피자냐 고기냐
-3) 우석 : 미트파이냐 피자냐
-4) 영신 : 피자냐 오코노미야끼냐
+![영신](image-1.png)
+[**YOUNG_SHIN_OK**](/OYS/README.md)
 
-## 모델
+![진우](image-4.png)
+[**JIN_WOO_JEON**](/JJW/README.md)
 
-1) VGG16
-: 직접 모델을 만들어보기
-    - 윤서
-    - 우석
+![우석](image-5.png)
+[**WOO_SEOK_GO**](/KWS/README.md)
 
-2) Resnet
-: 전이학습 - 각자의 데이터에 맞게 모델을 수정해보기
-    - 진우
-    - 영신
+![윤서](image-6.png)
+[**YUN_SEO_LEE**](/LYS/README.md)
+
+## 결과
