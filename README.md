@@ -23,3 +23,25 @@
 [**YUN_SEO_LEE**](/LYS/)
 
 ## 결과
+
+김치전 : 피자
+![alt text](KakaoTalk_20240328_152030544.png)
+
+오꼬노미야끼 : 낫 피자
+![alt text](KakaoTalk_20240328_152030544_01.png)
+
+파전 : 낫 피자
+![alt text](KakaoTalk_20240328_152030544_02.png)
+
+사과 : 낫 피자
+![alt text](KakaoTalk_20240328_152030544_03.png)
+
+소고기 : 피자
+![alt text](KakaoTalk_20240328_152030544_04.png)
+
+라자냐 : 피자
+![alt text](KakaoTalk_20240328_152030544_05.png)
+
+피자는 잘 나옴
+![alt text](KakaoTalk_20240328_152030544_06.png)
+![alt text](KakaoTalk_20240328_152030544_07.png)
