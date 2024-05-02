@@ -8,8 +8,6 @@
 
 ![주제2](image-3.png)
 
-## 팀원
-
 ## 팀 내용 (클릭 시 상세 내용 확인 가능)
 <details>
 <summary> 이윤서 <a href="https://github.com/voo0o08" height="5" width="10" target="_blank">
@@ -206,26 +204,3 @@ pred_DS.imgs에는 이미지의 순서대로 (경로, class), (경로, class)…
 </div>
 </details>
 
-## 결과
-
-김치전 : 피자
-![alt text](KakaoTalk_20240328_152030544.png)
-
-오꼬노미야끼 : 낫 피자
-![alt text](KakaoTalk_20240328_152030544_01.png)
-
-파전 : 낫 피자
-![alt text](KakaoTalk_20240328_152030544_02.png)
-
-사과 : 낫 피자
-![alt text](KakaoTalk_20240328_152030544_03.png)
-
-소고기 : 피자
-![alt text](KakaoTalk_20240328_152030544_04.png)
-
-라자냐 : 피자
-![alt text](KakaoTalk_20240328_152030544_05.png)
-
-피자는 잘 나옴
-![alt text](KakaoTalk_20240328_152030544_06.png)
-![alt text](KakaoTalk_20240328_152030544_07.png)
